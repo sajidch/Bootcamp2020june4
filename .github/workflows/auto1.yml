@@ -33,7 +33,4 @@ jobs:
      -name :  deploying using surge
     run:surge ./  Bootcamp2020june4.surge.sh --token{(secrets.SURGE-TAKEN)}
     
-     {{
      
-        echo Add other actions to build,
-        echo test, and deploy your project.
